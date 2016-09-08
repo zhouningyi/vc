@@ -1,0 +1,23 @@
+{
+  "name": "vc",
+  "version": "1.0.0",
+  "description": "可视化项目生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouningyi/vc.git"
+  },
+  "author": "zhouningyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouningyi/vc/issues"
+  },
+  "homepage": "https://github.com/zhouningyi/vc#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^1.1.2"
+  }
+}
